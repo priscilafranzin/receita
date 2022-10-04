@@ -1,0 +1,74 @@
+
+body {
+  background: linear-gradient(pink, yellow )
+
+}
+h1 {
+    text-align: center;
+    font-family: 'Petit Formal Script', cursive;
+    color: blueviolet
+}
+   
+
+
+h2 {
+  font-family: 'Petit Formal Script', cursive;
+  text-align: center;  
+  font-size: 30px;
+  
+}
+
+h3 {
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 25px;
+  margin-left:17px ;
+  background-color: aquamarine;
+}
+
+h4 {
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 25px;
+  background-color: aquamarine;
+  margin-left:17px ;
+}
+.bolo {
+  text-align: center;
+}
+
+
+.ingredientes {
+font-size: 20px;
+align-content: space-between;
+border: solid black 1px;
+padding: 10px 1px 15px 1px;
+width: 500px;
+background-color: aquamarine;
+
+}
+
+.receita {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+ul, li {
+  background-color: aquamarine;
+}
+
+ol, li {
+  background-color: aquamarine; 
+}
+
+.modo  {
+  font-size: 20px;
+align-content: space-between;
+border: solid black 1px;
+padding: 10px 1px 15px 1px;
+width: 500px;
+background-color: aquamarine;
+
+}
+
+
+
